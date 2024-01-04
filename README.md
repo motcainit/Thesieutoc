@@ -1,7 +1,20 @@
 # Thesieutoc
 
-**PHIÊN BẢN JAVA YÊU CẦU:** 11 TRỞ LÊN
+## Tính năng
+- Nạp thẻ bằng lệnh/click text trên chat/menu
+- Top nạp thẻ
+- Mốc nạp
 
-**HỖ TRỢ PHIÊN BẢN:** 1.12 -> 1.20.3
+Có lỗi thì nhắn tin cho support Thesieutoc hoặc tạo [Issues](https://github.com/motcainit/Thesieutoc/issues) nha
 
-Có lỗi thì nhắn tin cho support Thesieutoc hoặc tạo Issues nha
+
+# [TẢI VỀ](https://github.com/motcainit/Thesieutoc/releases)
+Bấm vào ^ trên để tải về.
+
+## Yêu cầu
+Java 11 hoặc cao hơn
+
+## Phiên bản Spigot
+Hầu hết các phiên bản được đều hỗ trợ (tuy nhiên nạp = menu chỉ mới hỗ trợ đến 1.20.3)
+
+
