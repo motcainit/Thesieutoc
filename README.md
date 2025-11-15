@@ -19,11 +19,14 @@
 - **Java**: 17 trở lên
 
 ---
+## Hỗ trợ
 
-## Phiên bản Spigot hỗ trợ
-- Hỗ trợ hầu hết các phiên bản Spigot  
-- **Lưu ý**: Tính năng nạp qua menu hiện chỉ hỗ trợ đến **1.21.10**
-
+| Server | Phiên bản |
+|--------|-----------|
+| **Spigot** | `1.8.8` → `1.21.10` |
+| **Paper**  | `1.8.8` → `1.21.10` |
+| **Purpur** | `1.14.1` → `1.21.10` |
+| **Folia**  | `1.19.4` → `1.21.8` |
 ---
 
 ## Placeholder (PAPI)
